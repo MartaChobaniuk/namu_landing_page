@@ -1,3 +1,18 @@
-body {
-  margin: 0;
-}
+@import "./utils/mixins";
+@import "./utils/variables";
+
+@import "./blocks/main-page";
+@import "./blocks/header";
+@import "./blocks/menu";
+@import "./blocks/icon";
+@import "./blocks/select";
+@import "./blocks/button";
+@import "./blocks/container";
+@import "./blocks/reset";
+@import "./blocks/footer";
+@import "./blocks/grid";
+@import "./blocks/exhibitions";
+@import "./blocks/events";
+@import "./blocks/visit";
+@import "./blocks/news";
+@import "./blocks/digest";
